@@ -15,6 +15,4 @@ Docker
 Docker Compose
 
 # How to run
-Run `make up`.
-
-Navigate to `http://localhost`.
+Run `make up` to start web service.
